@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+/* Body Styling */
+body {
+    background-color: rgb(204, 204, 204);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Playlist Container */
+.playlist {
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* Player One Styling (Video Player) */
+.player_one {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+/* Player Two Styling (Audio Player) */
+.player_two {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+/* Styling for Headings */
+h1, h2, h3 {
+    color: #333;
+}
